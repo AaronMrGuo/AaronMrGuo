@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Aaron Mr Guo,  
-- 👀 I’m a data analyst in the medical industry.
-- 👀 I’m interested in nature language processing in the medical industry.
-- 🌱 I’m currently learning Math, Spider, nature language processing etc.
-- 📫 email: aaronguo0606@gmail.com
+- 👋 Hi, I’m @Aaron Mr Guo, 
 
 <!---
 AaronMrGuo/AaronMrGuo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
